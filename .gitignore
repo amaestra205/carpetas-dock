@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Compilación
+build.log
+*.app
+build/
+
+# El icono se genera al compilar a partir de iconos de apps del sistema
+Resources/AppIcon.icns
+
+# Registros locales
+debug.log
+.medida.txt
